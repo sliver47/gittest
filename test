@@ -1,4 +1,4 @@
-line1:test
+line1:test #fix bug 101
 line2:test2
 line3:test3
 line4:no-ff merge
