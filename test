@@ -2,3 +2,5 @@ line1:test #fix bug 101
 line2:test2
 line3:test3
 line4:no-ff merge
+line5:test stash
+line6:test stash1
